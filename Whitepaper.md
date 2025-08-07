@@ -8,14 +8,16 @@ then we can print money to create high quality education.
 # Mitochondria Tokenomics
 This project is powered by $MITY, an ERC20 token.
 On launch, a $MITY can be purchased for 0.03089294 ETH, where it stays in your wallet.
+The goal is for 1 $MITY to be a daily living wage in most parts of the United States.
+I need to be sure this system works locally, and I cannot speak for my african, asian, european, etc., homies.
 
 After launch, its value will be driven by:
 1) The perceived quality and impact of the educational resources it supports
 2) Its utility within the platform
 3) The growth of the Mitochondria ecosystem
 
-A 10% Purchasers Fee on all purchased $MITY goes to the DAO treasury, 10% of the Purchaser Fee goes to the founders wallet.
-I just can't have people whaling about.
+A 10% Purchasers Fee on all purchased $MITY goes to the DAO treasury.
+I just can't have people whaling about, and I also won't do this for free.
 Given that the token is backed by education, use of the education, and demand for the education, the value trajectory is positive.
 
 # Quality Assurance
@@ -31,11 +33,11 @@ It removes dependence on AI to solve the problems, and instead leaves AI to hamm
 ## If your course can teach me the philosophy and how that translates into theory and then implementation, *that* is high quality education.
 
 # Bounties
-A Bounty is created when a proposal for a new education domain is submitted.
+A Bounty is created when a proposal for a new education domain is submitted and then verified by the DAO.
 The bounty is equal to 25% of the staked tokens, and is paid out over the creation of the curriculum, milestone based.
 The staking member is purchasing Vote tokens from the DAO with that 25%, those are used later.
-The Bounty outlines what knowledge gaps the curriculum needs to teach, the DAO defines milestones verifies the completions are of Quality.
-Bounties cannot be edited once submitted, if you identify more gaps, you must propose a new bounty.
+The Bounty outlines what knowledge gaps the curriculum needs to teach, the DAO defines milestones and verifies the completions are of Quality.
+Bounties are managed by the DAO, and the DAO is human so this takes time
 
 ## Implementation Plan
 An Implementation Plan is submitted to a Bounty, it outlines a proposed curriculum and how it will be taught.
