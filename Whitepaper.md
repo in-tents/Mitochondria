@@ -10,7 +10,7 @@ This project is powered by $MITY, an ERC20 token.
 
 On launch, a $MITY can be purchased for 0.03089294 ETH, where it stays in your wallet.
 
-The goal is for 1 $MITY to be worth a daily living wage in most parts of the United States.
+The goal is for 1 $MITY to represent a standardized minimum daily wage.
 
 After launch, its value will be driven by:
 1) The perceived quality and impact of the educational resources it supports
