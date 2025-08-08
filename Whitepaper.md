@@ -1,5 +1,5 @@
 # Mitochondria
-## Goal: 
+### Goal: 
 AI Informed, Free-to-Consume, High Quality Education.
 
 If the government can print money to bail out banks, 
@@ -24,11 +24,11 @@ If a $MITY is not minted through labor, it is subject to a 3% purchasers fee whi
 Given that the token is backed by education, use of the education, and demand for the education, the value trajectory is positive.
 
 # Quality Assurance
-There is no demand for individuals who can spit out definitions on demand.
+There is no desire for individuals who can spit out definitions on demand.
 
 Memorizing information does not mean you know how to use it, or advance it.
 
-## FAFO Education Model
+### FAFO Education Model
 I propose a new learning model based on how information is actually discovered:
 
 Experience (problem identified) > Philosophy (what is the nature of the problem?) > Theory (here's how I would go about solving it) > Implementation (the empirical nitty-gritty) > Experience (restart cycle).
@@ -39,7 +39,7 @@ It instills skills that are essential for navigating a complex and ever-changing
 
 It removes dependence on AI to solve the problems, and instead leaves AI to hammer out implementation of the devised solutions.
 
-## If your course can teach me the philosophy and how that translates into theory and then implementation, *that* is high quality education.
+### If your course can teach me the philosophy and how that translates into theory and then implementation, *that* is high quality education.
 
 # Bounties
 A Bounty is created when a proposal for a new education domain is submitted and then verified by the DAO.
@@ -50,24 +50,38 @@ The staking member is purchasing Vote tokens from the DAO with that 25%, those a
 
 The Bounty outlines what knowledge gaps the curriculum needs to teach, the DAO defines milestones and verifies the completions are of Quality.
 
-Bounties are managed by the DAO, and the DAO is human so this takes time
+Bounties are managed by the DAO, and the DAO is human so this takes time.
 
-## Implementation Plan
+### Milestones
+
+### The Sections of the Cirriculum:
+The Problem
+The Philosophy behind solving it well
+The Theories based on the different philosophies
+The Current Implementation
+Student Projects proving Quality of Education
+
+Each section can have multiple chapters, but each one must be outlined.
+Bam, all your milestones. Just like per chapter payments.
+
+### Implementation Plan
 Submitted to a Bounty, it outlines a proposed curriculum and how it will be taught.
 
 When the first Implementation Plan is submitted, there is a 30 day period to allow for competing Implementations to emerge.
 
 After the 30 days, the Implementation plan with the most votes by staked token holders receives the bounty.
 
+Only those who care and are informed enough will vote, but everyone *can* vote.
+
 ## How do I get paid though
 ### Initial Funding
 Milestones are determined in your curriculum creation, and you are paid per milestone.
 
-Implementation Plans lay out milestones of completion, and what triggers it, which creates an instance of payment.
+This means we need an Empirical standard of quality for education, which I have yet to define. Perhaps based on depth, ease of consumption, and quality of production. But that's not empirical.
 
-This means we need an Empirical standard of quality for education, which I have yet to define.
+Ideally if you do even better, the DAO tips you through minted coin.
 
-The bounty is spread across all these instances, so go crazy.
+The bounty is spread evenly across all milestones, as long as they are of Quality.
 
 ### Kickbacks
 After the curriculum is published, token holders can access it, and earn a soulbound certification that says "this wallet completed a course by this educator" upon completion.
@@ -88,7 +102,7 @@ Student project grades will be based on: understanding of how to tackle the prob
 7) Winner builds the content, sustaining themselves on bounty payments
 8) Students learn and complete the curriculum
 
-## Pro-Whale
+### Pro-Whale
 We love whales, they fund our projects, but we don't love it when they absorb a lot of power.
 
 What I propose is the Elite Lie, which essentially hammers out a path to becoming a symbolic monarch.
@@ -97,5 +111,10 @@ You get your name on the project, you can show it off, no one needs to know that
 
 Cosmetic Influence.
 
+### Writing on the Wall
+If you can see that the DAO is starting to kinda tank, there is absolutely no shame in trading your tokens in for another currency. It is your crypto after all.
+
 # STAGE 2
-Now that there is a platform where token holders can propose bounties, AND there are highly educated individuals inside the network, we now have a Radiative Distributed Specialization of individuals (since everyone is specialized in their own thing, the collective is generalist). 
+Now that there is a platform where token holders can propose bounties, AND there are highly educated individuals inside the network, we now have a Radiative Distributed Specialization of individuals (since everyone is specialized in their own thing, the collective is generalist).
+
+I think something like that can achieve Solarpunk, given enough time, resources.
