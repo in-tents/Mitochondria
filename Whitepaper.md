@@ -88,5 +88,14 @@ Student project grades will be based on: understanding of how to tackle the prob
 7) Winner builds the content, sustaining themselves on bounty payments
 8) Students learn and complete the curriculum
 
+## Pro-Whale
+We love whales, they fund our projects, but we don't love it when they absorb a lot of power.
+
+What I propose is the Elite Lie, which essentially hammers out a path to becoming a symbolic monarch.
+
+You get your name on the project, you can show it off, no one needs to know that all you did was fund it.
+
+Cosmetic Influence.
+
 # STAGE 2
 Now that there is a platform where token holders can propose bounties, AND there are highly educated individuals inside the network, we now have a Radiative Distributed Specialization of individuals (since everyone is specialized in their own thing, the collective is generalist). 
