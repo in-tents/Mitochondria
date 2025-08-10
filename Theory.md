@@ -26,7 +26,7 @@ Courses will be sorted by Philosophy, Theory, or Implementation. Ideally they ar
 In order to recieve a certification of completion, the student must solve a real world problem using what they have learned.
 
 # Bounties
-A Bounty is created when a proposal for a new education module is submitted by the DAO or a Third Party.
+A Bounty is created when a proposal for a new education module is submitted by Mitochondria or a Third Party.
 
 The Bounty outlines what knowledge gaps the curriculum needs to teach, defines milestones. 
 
@@ -47,11 +47,11 @@ Note: submitting a bounty and then an implementation plan to that same bounty is
 ### Initial Funding
 Bounties define the gaps in the education, the bounty payment is split across each course module completed, as long as they are of Quality.
 
-DAO Staff view your content, and assign a score based on Depth of Knowledge, Ease of Consumption, Production Quality, Real World Application, and if it follows the FAFO model.
+Mitochondria Staff view your content, and assign a score based on Depth of Knowledge, Ease of Consumption, Production Quality, Real World Application, and if it follows the FAFO model.
 
 To speed things along, you will have access to this rubric and 
 
-Ideally if you do even better, the DAO is able to tip you. But i dunno we don't make money around these parts.
+Ideally if you do even better, Mitochondria is able to tip you. But i dunno we don't make money around these parts.
 
 # Who gets to access this education?
 After the curriculum is published, any member of the platform can access it, as well as recieve a certificate with a unique QR code that will make sense much later.
