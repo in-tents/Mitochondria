@@ -49,10 +49,10 @@ Learners must complete a real-world problem-solving project to earn certificatio
 
 Project Mitochondria’s content creation is driven by a **Bounty System**:
 
-* **Bounty Creation** – A bounty is posted when the DAO or a third party identifies a knowledge gap and outlines required learning outcomes.
+* **Bounty Creation** – A bounty is posted when the Project or a third party identifies a knowledge gap and outlines required learning outcomes.
 * **Implementation Plans** – Educators submit plans detailing the curriculum and teaching approach. A 10-day open period allows for multiple proposals before donors commit.
 * **Donor Support** – Interested donors fund the proposals they believe in.
-* **Quality Verification** – DAO staff review submissions based on:
+* **Quality Verification** – Mitochondria staff review submissions based on:
 
   * Depth of Knowledge
   * Ease of Consumption
@@ -67,8 +67,8 @@ Project Mitochondria’s content creation is driven by a **Bounty System**:
 **Initial Funding:**
 
 * Bounty funds are distributed across completed modules that meet quality standards.
-* DAO staff score each submission using a transparent rubric.
-* Exceptional work may receive additional tips from the DAO (budget permitting).
+* Mitochondria staff score each submission using a transparent rubric.
+* Exceptional work may receive additional tips from the Mitochondria (budget permitting).
 
 **Creator Encouragement:**
 Submitting both a bounty proposal and an implementation plan is allowed—and encouraged. However, funding depends on donor interest.
@@ -95,14 +95,14 @@ We welcome large donors ("whales") while maintaining decentralization. Our **Eli
 
 * Donors’ names are featured on the project.
 * Their contributions are publicly celebrated.
-* Influence over curriculum remains with the DAO and community.
+* Influence over curriculum remains with the Mitochondria and community.
 
 ---
 
 ### **8. Financial Sustainability**
 
-* **Revenue Model:** Primarily donation-based, with possible future integration of optional premium tools, DAO memberships, or sponsor partnerships.
-* **Expense Allocation:** Creator payments, platform maintenance, quality assurance, and DAO operations.
+* **Revenue Model:** Primarily donation-based, with possible future integration of optional premium tools, Mitochondria memberships, or sponsor partnerships.
+* **Expense Allocation:** Creator payments, platform maintenance, quality assurance, and Mitochondria operations.
 
 ---
 
@@ -110,7 +110,7 @@ We welcome large donors ("whales") while maintaining decentralization. Our **Eli
 
 **Phase 1 – Launch Infrastructure**
 
-* Finalize DAO governance
+* Finalize Mitochondria governance
 * Implement bounty posting and submission platform
 * Develop and test FAFO-aligned rubric
 
