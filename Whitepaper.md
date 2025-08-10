@@ -1,6 +1,4 @@
-# Project Mitochondria: Revolutionizing Education Through Community-Powered, AI-Informed Learning
-
-## A Whitepaper on Decentralized Educational Innovation
+# Project Mitochondria
 
 ---
 
