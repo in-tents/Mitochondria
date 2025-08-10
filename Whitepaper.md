@@ -128,8 +128,12 @@ We welcome large donors ("whales") while maintaining decentralization. Our **Eli
 
 ---
 
-### **10. Conclusion**
+### **10. Stage 2 Teaser**
 
-Project Mitochondria seeks to be the *powerhouse of modern education*—free, open, AI-informed, and relentlessly practical. By rewarding creators for quality and empowering learners to solve real problems, we aim to build an education ecosystem that’s not just future-proof, but future-building.
+We now have a Radiative Distributed Specialization of individuals (since everyone is specialized in their own thing, the collective is generalist).
+
+We have a platform where individuals can post bounties for tasks, and highly educated individuals who can complete those tasks.
+
+Something like that can achieve Solarpunk, given enough time, resources, and love.
 
 ---
